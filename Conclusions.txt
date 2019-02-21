@@ -1,0 +1,17 @@
+Conclusions
+
+Based on the tables of results that we have created, here are three observations concluded:
+
+1. When we compare the gender of players and spenders, we can see that female players tend to purchase more expensive items than male players. 
+
+2. When we compare spenders in different ages, it is easy to see that players between 20-24 years' old contributed to the most purchase count (44%) and the highest total purchase value (46%), making this demographic group the largest spender of the game.
+
+3. When we compare different game items, we can see that "Oathbreaker, Last Hope of the Breaking Storm" hold the champion of all, both in count and total purchase value, although its unit price is not the highest. 
+
+   "Pursuit, Cudgel of Necromancy", although placed 5th in purchase count, its total purchase value was not in the top 10 due to its lower unit price. 
+
+   
+
+   
+
+    
